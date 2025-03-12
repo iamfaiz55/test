@@ -3,7 +3,7 @@ const occurence = (arg)=> {
     for (let i = 0; i < arg.length; i++) {
 
         if(x[arg[i]]){
-            x[arg[i] = x[i]]
+            x[arg[i] = x[arg[i]]
         }else{
             x[arg[i]]= 1
         }
